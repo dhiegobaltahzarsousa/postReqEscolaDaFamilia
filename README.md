@@ -1,7 +1,8 @@
 #Requisição POST para o curso de Lógica de Programação com desenvolvimento WEB.
 
-Códigos para criar uma requisição post utilizando HTML e PHP :elephant:.
-
+Códigos para criar uma requisição post utilizando HTM e PHP :elephant:.
+**Códigos para criar uma requisição post utilizando HTM e PHP :elephant:.
+**
 
 produto.php
 ```
